@@ -1,3 +1,4 @@
+% This file is used for Reference for conductance based spiking.
 % three_coupledPIR.m 
 % A model of a central pattern generator by coupling together three neurons 
 % with inhibitory synaptic connections. 

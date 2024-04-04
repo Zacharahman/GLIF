@@ -1,2 +1,2 @@
 # GLIF
- The Generalized Leaky Integrate and Fire (GLIF) model simulates the behavior of a network of neurons.
+ A Generalized Leaky Integrate and Fire (GLIF) model that simulates various biological dynamics of a network of neurons.
